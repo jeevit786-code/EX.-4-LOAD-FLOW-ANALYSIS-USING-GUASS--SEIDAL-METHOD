@@ -68,8 +68,13 @@ including all the complex bus voltages and all the bus angles.
 ```
 
 # CIRCUIT DIAGRAM:
+
+<img width="783" height="772" alt="image" src="https://github.com/user-attachments/assets/8c838f11-b09d-4f5e-99cd-ce0235c96bfa" />
+
 # OUTPUT: 
+
+<img width="922" height="552" alt="image" src="https://github.com/user-attachments/assets/83238a6b-e9c6-4330-a1a3-ee1e47ce56c8" />
+
 # RESULT:
 Thus the load flow analysis using gauss-seidal method is successfully done using etap software and the 
 output is obtained.
-
